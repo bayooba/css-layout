@@ -1,2 +1,2 @@
-# layout.github.io
+# css-layout
 CSS Flexbox and Grid layout designs
